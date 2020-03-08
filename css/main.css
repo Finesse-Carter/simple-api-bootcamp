@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  font-size: 10px;
+}
+body{
+  width: 100%;
+background-color: black;
+}
+img{
+float: left;
+}
+
+input{
+  width: 20%;
+}
+h1{
+  font-size: 4rem;
+}
+p{
+  font-size: 2rem;
+}
