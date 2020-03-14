@@ -4,6 +4,11 @@
 html{
   font-size: 10px;
 }
+header{
+  background-color: midnightblue;
+color: white;
+text-align: center;
+}
 body{
   width: 100%;
 background-color: black;
@@ -11,7 +16,10 @@ background-color: black;
 img{
 float: left;
 }
-
+form {
+  width: 100%;
+  margin-left: 56rem;
+}
 input{
   width: 20%;
 }
